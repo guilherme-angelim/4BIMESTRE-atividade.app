@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atividade.APP-4bimestre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc14f3fe4f558c0dad4c2d5699c636f4a8b13d9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("atividade.APP-4bimestre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atividade.APP-4bimestre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
